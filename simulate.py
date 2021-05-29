@@ -1,6 +1,6 @@
-# Name: 
-# SID:
-# unikey:
+# Name: Imran Rather
+# SID: 510462233
+# unikey: irat3510
 
 import math
 import sys
